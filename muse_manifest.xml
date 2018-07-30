@@ -1,0 +1,102 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dashh.me" resolutions="1x,2x" timestamp="1532949029005">
+  <folder name="css">
+    <file name="site_global.css" crc="3931764794"/>
+    <file name="master_google.css" crc="4196811720" ref="blog:services:about:index:work:talk-to-us"/>
+    <file name="nomq_preview_master_google.css" crc="3824530138" ref="blog:services:about:index:work:talk-to-us"/>
+    <file name="master_a-master.css" crc="4140564479" ref="blog:services:about:index:work:talk-to-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="242592759" ref="blog:services:about:index:work:talk-to-us"/>
+    <file name="blog.css" crc="502198722" ref="blog"/>
+    <file name="nomq_blog.css" crc="4066850775" ref="blog"/>
+    <file name="services.css" crc="441381265" ref="services"/>
+    <file name="nomq_services.css" crc="4235625810" ref="services"/>
+    <file name="about.css" crc="3999005336" ref="about"/>
+    <file name="nomq_about.css" crc="4129626291" ref="about"/>
+    <file name="index.css" crc="315398942" ref="index"/>
+    <file name="nomq_index.css" crc="200378493" ref="index"/>
+    <file name="work.css" crc="456621509" ref="work"/>
+    <file name="nomq_work.css" crc="3877876233" ref="work"/>
+    <file name="talk-to-us.css" crc="3962165962" ref="talk-to-us"/>
+    <file name="nomq_talk-to-us.css" crc="4139586306" ref="talk-to-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="googlelogo.jpg" crc="41094820" seo="true" mt="1516728356000"/>
+    <file name="mt-article-connect.php" crc="4132912990" seo="true" mt="1484078879000"/>
+    <file name="tec_long_blue_png4x.png" crc="4250921867" seo="true" mt="1486465285000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="museutils.js" crc="340535759" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="museconfig.js" crc="310584261" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:talk-to-us"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="require.js" crc="7928878" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="webpro.js" crc="4059564322" ref="talk-to-us"/>
+    <file name="form_check.php" crc="3820983874" ref="talk-to-us"/>
+    <file name="form_process.php" crc="3776570906" ref="talk-to-us"/>
+    <file name="form-u877.php" crc="252492729" ref="talk-to-us"/>
+    <file name="form-u2147.php" crc="272166263" ref="talk-to-us"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="282173739" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:talk-to-us:blog:work:services:about"/>
+    <file name="pasted-svg-153416x153.svg" crc="4225109572" seo="true" ref="index:talk-to-us:blog:work:services:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="talk-to-us" alt=""/>
+      <caption webpage="talk-to-us" alt=""/>
+      <caption webpage="talk-to-us" alt=""/>
+      <caption webpage="talk-to-us" alt=""/>
+      <caption webpage="talk-to-us" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pasted svg 153416x153_poster_.png" crc="3989856335" ref="index"/>
+    <file name="facebook_38co.svg" crc="73373377" ref="index:talk-to-us"/>
+    <file name="facebook_38co_poster_u343.png" crc="4254793653" ref="index:talk-to-us"/>
+    <file name="facebook_hover_38co.svg" crc="4131985694" ref="index:talk-to-us"/>
+    <file name="facebook_hover_38co_poster_u351.png" crc="3854494642" ref="index:talk-to-us"/>
+    <file name="twitter_38co.svg" crc="406590569" ref="index:talk-to-us"/>
+    <file name="twitter_38co_poster_u359.png" crc="364863087" ref="index:talk-to-us"/>
+    <file name="twitter_hover_38co.svg" crc="4007483154" ref="index:talk-to-us"/>
+    <file name="twitter_hover_38co_poster_u367.png" crc="449540486" ref="index:talk-to-us"/>
+    <file name="instagram_38co.svg" crc="4186264093" ref="index:talk-to-us"/>
+    <file name="instagram_38co_poster_u391.png" crc="4188499773" ref="index:talk-to-us"/>
+    <file name="instagram_hover_38co.svg" crc="469883970" ref="index:talk-to-us"/>
+    <file name="instagram_hover_38co_poster_u383.png" crc="230820211" ref="index:talk-to-us"/>
+    <file name="mail_38co.svg" crc="502227348" ref="index:talk-to-us"/>
+    <file name="mail_38co_poster_u399.png" crc="3910327149" ref="index:talk-to-us"/>
+    <file name="mail_hover_38co.svg" crc="4080327158" ref="index:talk-to-us"/>
+    <file name="mail_hover_38co_poster_u407.png" crc="4180562762" ref="index:talk-to-us"/>
+  </folder>
+  <file name="index.html" crc="3985342994" seo="true" mt="1516731374863" redirect="true"/>
+  <file name="talk-to-us.html" crc="155260014" seo="true" mt="1516731374863" redirect="true"/>
+  <file name="blog.html" crc="143502578" seo="true" mt="1516731374863" redirect="true"/>
+  <file name="work.html" crc="4155313383" seo="true" mt="1516731374863" redirect="true"/>
+  <file name="services.html" crc="3850985196" seo="true" mt="1516731374863" redirect="true"/>
+  <file name="about.html" crc="3873566745" seo="true" mt="1516731374863" redirect="true"/>
+</manifest>
